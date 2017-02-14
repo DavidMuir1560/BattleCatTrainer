@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Op Game BattleCats Source Code.Plugins", "Op Game BattleCats Source Code.Plugins.csproj", "{2FF8E023-CF8C-2510-3EB5-5245774DBA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Op Game BattleCats Source Code", "Op Game BattleCats Source Code.csproj", "{B9FB80C3-3095-B489-D736-E8430DECA845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Op Game BattleCats Source Code.Editor", "Op Game BattleCats Source Code.Editor.csproj", "{D13DEDA7-324E-4A23-6B60-C10343AE15C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF8E023-CF8C-2510-3EB5-5245774DBA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF8E023-CF8C-2510-3EB5-5245774DBA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF8E023-CF8C-2510-3EB5-5245774DBA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF8E023-CF8C-2510-3EB5-5245774DBA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FB80C3-3095-B489-D736-E8430DECA845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FB80C3-3095-B489-D736-E8430DECA845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FB80C3-3095-B489-D736-E8430DECA845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FB80C3-3095-B489-D736-E8430DECA845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13DEDA7-324E-4A23-6B60-C10343AE15C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13DEDA7-324E-4A23-6B60-C10343AE15C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13DEDA7-324E-4A23-6B60-C10343AE15C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13DEDA7-324E-4A23-6B60-C10343AE15C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

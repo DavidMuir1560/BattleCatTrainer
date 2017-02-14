@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI Scripts\In-Game\InGameCanvas.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UI Scripts\In-Game\InGameCanvas.cs" Line="43" Column="6" />
+      <File FileName="Assets\Scripts\UI Scripts\LoadingScreenDelayScript.cs" Line="21" Column="1" />
+      <File FileName="Assets\Scripts\UI Scripts\LoadingSceneManager.cs" Line="16" Column="44" />
+      <File FileName="Assets\Scripts\UI Scripts\Main Menu\InteractiveMainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Scripts\CameraScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
